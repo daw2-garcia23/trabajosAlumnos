@@ -12,4 +12,4 @@ Utilizaremos un procedimiento basado agile y scrum
 
 ##Recursos
 `npm install`
-(https://carrebola.github.io/vanillaPill/docs/h8)
+[clica](https://carrebola.github.io/vanillaPill/docs/h8)
