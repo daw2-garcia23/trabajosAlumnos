@@ -9,3 +9,7 @@ Utilizaremos un procedimiento basado agile y scrum
 1.Crearemos las historias
 2.Dividiremos las historias en tareas
 3.Agruparemos las historias en springs
+
+##Recursos
+`npm install`
+(https://carrebola.github.io/vanillaPill/docs/h8)
